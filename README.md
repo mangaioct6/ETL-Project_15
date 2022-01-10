@@ -9,6 +9,9 @@
 ## Loading into Database
 * We created database called "asteroids" using psycopg2 library. Created 4 tables and loaded the values into table.
 
+## Data Model
+![](DataModel.png)
+
 ## Close Approach Dataset
 NASA's Center for Near-Earth Object Studies (CNEOS) also provides data about close approaches of NEOs to Earth. A close approach occurs when an NEO's orbit path brings it near Earth - although, "near" in astronomical terms can be quite far in human-scale units, such as kilometers. Instead of kilometers, astronomical distances within the solar system are often measured with the astronomical unit (au) - the mean distance between the Earth and the sun - although sometimes you'll see distances measured with the lunar distance (ld) - the mean distance between the Earth and the moon - or even plain old kilometers.
 
